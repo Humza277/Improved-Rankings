@@ -2,7 +2,7 @@ Computer Science Rankings
 =========================
 CSRankings is a website developed by academia, that allows users to interact with the site to see the research intensities of different universities. We were tasked with creating and adding a function that enables a user to find out which research area(s) give the best rank for a given university. 
 
-This is a project I did with a fellow student, it uses Python, Pandas and NumPy to forfill the task we were given. 
+This is a project I did with a fellow student, it uses Python, Pandas and NumPy to fulfillthe task we were given. 
 It works as follows:
 You will select the region, like Europe, followed by the University of your choice and then selecting the publication years of your choice which can be set to 2010 - 2019. Furthermore, you can finish on selecting four research areas and then clicking "Best Ranking". The output of this will be the old rank of the university and the new rank. The score for the universitites is also displayed. 
 
