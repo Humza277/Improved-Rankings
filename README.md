@@ -23,4 +23,4 @@ f for example, we feel that the data provided is not in line with the original C
 
 
 ### Acknowledgements
-This project wouldnt be possible without the work of [Emery Berger](https://emeryberger.com). 
+This project wouldnt be possible without the work of [Emery Berger](https://emeryberger.com) and the original [csrankings](https://github.com/emeryberger/CSrankings) 
